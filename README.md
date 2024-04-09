@@ -39,7 +39,7 @@ This repository contains a web-based cinema movie ticket purchase system. The sy
 
 To install and run this system on your local machine, you will need to have a web server with PHP and MySQL installed. Here are the steps to install the system:
 
-1. Clone this repository to your local machine using git clone https://github.com/dreamers-group/online-cinema-booking.git
+1. Clone this repository to your local machine using git clone (https://github.com/yike-cyber/cinema-ticket-booking.git)
 2. Import the database from the database folder into your MySQL server
 3. Update the database connection information in the config.php file
 4. Upload the files to your web server
